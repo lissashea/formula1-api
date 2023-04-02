@@ -1,7 +1,8 @@
  const express = require('express')
  const mongoose = require('mongoose')
  const Driver = require('./models/driverModel')
- 
+ const Team = require('./models/teamModel')
+
  const app = express()
  const port = 3000
 
@@ -46,6 +47,34 @@ app.post('/drivers',async (req, res) => {
   }
 })
 
+app.get('/teams',async (req, res) => {
+  try {
+    const teams = await Team.find({});
+    res.status(200).json(teams);
+  } catch (error) {
+      res.status(500).json({message: error.message})
+  }
+})
+
+app.post('/team',async (req, res) => {
+  try {
+      const team = await Team.create(req.body)
+      res.status(200).json(team); 
+  }   catch (error) {
+        console.log(error.message);
+        res.status(500).json({message: error.message})
+  }
+})
+
+app.get('/team/:id',async(req,res) => {
+  try {
+    const {id} = req.params;
+    const team = await Team.findById(id);
+    res.status(200).json(team);
+  } catch(error) {
+    res.status(500).json({message: error.message})
+  }
+})
 //update product
 app.put('/drivers/:id', async(req,res) => {
   try {
