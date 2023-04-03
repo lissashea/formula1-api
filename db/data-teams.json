@@ -1,0 +1,370 @@
+[
+	{
+		"_id": "642ab8f4f32a874eb1cf942e",
+		"name": "Red Bull Racing Honda",
+		"previous_names": "Red Bull Racing, Jaguar Racing, Stewart Grand Prix",
+		"driver1": "Max Verstappen",
+		"driver2": "Sergio Perez",
+		"championships": [
+			{
+				"year": 2013,
+				"driver": "Sebastian Vettel",
+				"_id": "642ab8f4f32a874eb1cf942f"
+			},
+			{
+				"year": 2012,
+				"driver": "Sebastian Vettel",
+				"_id": "642ab8f4f32a874eb1cf9430"
+			},
+			{
+				"year": 2011,
+				"driver": "Sebastian Vettel",
+				"_id": "642ab8f4f32a874eb1cf9431"
+			},
+			{
+				"year": 2010,
+				"driver": "Sebastian Vettel",
+				"_id": "642ab8f4f32a874eb1cf9432"
+			}
+		],
+		"homebase": "Milton Keynes, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Red-Bull/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:31:00.876Z",
+		"updatedAt": "2023-04-03T11:31:00.876Z",
+		"__v": 0
+	},
+	{
+		"_id": "642ab95cf32a874eb1cf9439",
+		"name": "Mercedes-AMG Petronas F1 Team",
+		"previous_names": "Mercedes GP Petronas, Brawn GP",
+		"driver1": "Lewis Hamilton",
+		"driver2": "George Russell",
+		"championships": [
+			{
+				"year": 2020,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf943a"
+			},
+			{
+				"year": 2019,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf943b"
+			},
+			{
+				"year": 2018,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf943c"
+			},
+			{
+				"year": 2017,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf943d"
+			},
+			{
+				"year": 2016,
+				"driver": "Nico Rosberg",
+				"_id": "642ab95cf32a874eb1cf943e"
+			},
+			{
+				"year": 2015,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf943f"
+			},
+			{
+				"year": 2014,
+				"driver": "Lewis Hamilton",
+				"_id": "642ab95cf32a874eb1cf9440"
+			}
+		],
+		"homebase": "Brackley, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Mercedes/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:32:44.766Z",
+		"updatedAt": "2023-04-03T11:32:44.766Z",
+		"__v": 0
+	},
+	{
+		"_id": "642ab97df32a874eb1cf9442",
+		"name": "Aston Martin Cognizant F1 Team",
+		"previous_names": "Racing Point F1 Team, Force India F1 Team",
+		"driver1": "Sebastian Vettel",
+		"driver2": "Lance Stroll",
+		"championships": [
+			{
+				"year": 1998,
+				"driver": "Mika Hakkinen",
+				"_id": "642ab97df32a874eb1cf9443"
+			}
+		],
+		"homebase": "Silverstone, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Aston-Martin/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:33:17.313Z",
+		"updatedAt": "2023-04-03T11:33:17.313Z",
+		"__v": 0
+	},
+	{
+		"_id": "642aba5cf32a874eb1cf9445",
+		"name": "McLaren F1 Team",
+		"previous_names": "McLaren Racing Limited",
+		"driver1": "Lando Norris",
+		"driver2": "Oscar Piastri",
+		"championships": [
+			{
+				"year": 1991,
+				"driver": "Ayrton Senna",
+				"_id": "642aba5cf32a874eb1cf9446"
+			},
+			{
+				"year": 1990,
+				"driver": "Ayrton Senna",
+				"_id": "642aba5cf32a874eb1cf9447"
+			},
+			{
+				"year": 1989,
+				"driver": "Alain Prost",
+				"_id": "642aba5cf32a874eb1cf9448"
+			},
+			{
+				"year": 1988,
+				"driver": "Ayrton Senna",
+				"_id": "642aba5cf32a874eb1cf9449"
+			}
+		],
+		"homebase": "Woking, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/McLaren/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:37:00.025Z",
+		"updatedAt": "2023-04-03T11:37:00.025Z",
+		"__v": 0
+	},
+	{
+		"_id": "642aba8cf32a874eb1cf944b",
+		"name": "Scuderia Ferrari",
+		"previous_names": "N/A",
+		"driver1": "Charles Leclerc",
+		"driver2": "Carlos Sainz Jr.",
+		"championships": [
+			{
+				"year": 2007,
+				"driver": "Kimi Räikkönen",
+				"_id": "642aba8cf32a874eb1cf944c"
+			},
+			{
+				"year": 2004,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf944d"
+			},
+			{
+				"year": 2003,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf944e"
+			},
+			{
+				"year": 2002,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf944f"
+			},
+			{
+				"year": 2001,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf9450"
+			},
+			{
+				"year": 2000,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf9451"
+			},
+			{
+				"year": 1999,
+				"driver": "Michael Schumacher",
+				"_id": "642aba8cf32a874eb1cf9452"
+			},
+			{
+				"year": 1983,
+				"driver": "Nelson Piquet",
+				"_id": "642aba8cf32a874eb1cf9453"
+			},
+			{
+				"year": 1979,
+				"driver": "Jody Scheckter",
+				"_id": "642aba8cf32a874eb1cf9454"
+			},
+			{
+				"year": 1977,
+				"driver": "Niki Lauda",
+				"_id": "642aba8cf32a874eb1cf9455"
+			},
+			{
+				"year": 1976,
+				"driver": "Niki Lauda",
+				"_id": "642aba8cf32a874eb1cf9456"
+			},
+			{
+				"year": 1975,
+				"driver": "Niki Lauda",
+				"_id": "642aba8cf32a874eb1cf9457"
+			},
+			{
+				"year": 1974,
+				"driver": "Emerson Fittipaldi",
+				"_id": "642aba8cf32a874eb1cf9458"
+			},
+			{
+				"year": 1973,
+				"driver": "Jacky Ickx",
+				"_id": "642aba8cf32a874eb1cf9459"
+			},
+			{
+				"year": 1972,
+				"driver": "Emerson Fittipaldi",
+				"_id": "642aba8cf32a874eb1cf945a"
+			},
+			{
+				"year": 1970,
+				"driver": "Jochen Rindt",
+				"_id": "642aba8cf32a874eb1cf945b"
+			}
+		],
+		"homebase": "Maranello, Italy",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:37:48.351Z",
+		"updatedAt": "2023-04-03T11:37:48.351Z",
+		"__v": 0
+	},
+	{
+		"_id": "642abaeff32a874eb1cf945d",
+		"name": "Scuderia AlphaTauri Honda",
+		"previous_names": "Scuderia Toro Rosso",
+		"driver1": "Nyck de Vries",
+		"driver2": "Yuki Tsunoda",
+		"championships": [],
+		"homebase": "Faenza, Italy",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/AlphaTauri/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:39:27.321Z",
+		"updatedAt": "2023-04-03T11:39:27.321Z",
+		"__v": 0
+	},
+	{
+		"_id": "642abb4bf32a874eb1cf945f",
+		"name": "Haas F1 Team",
+		"previous_names": "N/A",
+		"driver1": "Kevin Magnussem",
+		"driver2": "Nico Hulkenberg",
+		"championships": [],
+		"homebase": "Kannapolis, United States",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Haas-F1-Team/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:40:59.860Z",
+		"updatedAt": "2023-04-03T11:40:59.860Z",
+		"__v": 0
+	},
+	{
+		"_id": "642abb88f32a874eb1cf9461",
+		"name": "Williams Racing",
+		"previous_names": "Williams Grand Prix Engineering",
+		"driver1": "Alexander Albon",
+		"driver2": "Logan Sargeant",
+		"championships": [
+			{
+				"year": 1997,
+				"driver": "Jacques Villeneuve",
+				"_id": "642abb88f32a874eb1cf9462"
+			},
+			{
+				"year": 1996,
+				"driver": "Damon Hill",
+				"_id": "642abb88f32a874eb1cf9463"
+			},
+			{
+				"year": 1993,
+				"driver": "Alain Prost",
+				"_id": "642abb88f32a874eb1cf9464"
+			},
+			{
+				"year": 1992,
+				"driver": "Nigel Mansell",
+				"_id": "642abb88f32a874eb1cf9465"
+			},
+			{
+				"year": 1987,
+				"driver": "Nelson Piquet",
+				"_id": "642abb88f32a874eb1cf9466"
+			},
+			{
+				"year": 1986,
+				"driver": "Alain Prost",
+				"_id": "642abb88f32a874eb1cf9467"
+			},
+			{
+				"year": 1982,
+				"driver": "Keke Rosberg",
+				"_id": "642abb88f32a874eb1cf9468"
+			},
+			{
+				"year": 1980,
+				"driver": "Alan Jones",
+				"_id": "642abb88f32a874eb1cf9469"
+			},
+			{
+				"year": 1979,
+				"driver": "Jody Scheckter",
+				"_id": "642abb88f32a874eb1cf946a"
+			},
+			{
+				"year": 1978,
+				"driver": "Jacques Laffite",
+				"_id": "642abb88f32a874eb1cf946b"
+			}
+		],
+		"homebase": "Grove, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Williams/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:42:00.858Z",
+		"updatedAt": "2023-04-03T11:42:00.858Z",
+		"__v": 0
+	},
+	{
+		"_id": "642abbc5f32a874eb1cf946d",
+		"name": "Alpine F1 Team",
+		"previous_names": "Renault F1 Team, Lotus Renault GP, Renault F1",
+		"driver1": "Pierre Gasly",
+		"driver2": "Esteban Ocon",
+		"championships": [
+			{
+				"year": 2006,
+				"driver": "Fernando Alonso",
+				"_id": "642abbc5f32a874eb1cf946e"
+			},
+			{
+				"year": 2005,
+				"driver": "Fernando Alonso",
+				"_id": "642abbc5f32a874eb1cf946f"
+			}
+		],
+		"homebase": "Enstone, United Kingdom",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Alpine/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:43:01.814Z",
+		"updatedAt": "2023-04-03T11:43:01.814Z",
+		"__v": 0
+	},
+	{
+		"_id": "642abc15f32a874eb1cf9471",
+		"name": "Alfa Romeo Racing ORLEN",
+		"previous_names": "Sauber F1 Team, BMW Sauber F1 Team",
+		"driver1": "Zhou Guanyu",
+		"driver2": "Valeri Bottas",
+		"championships": [
+			{
+				"year": 1950,
+				"driver": "Nino Farina",
+				"_id": "642abc15f32a874eb1cf9472"
+			},
+			{
+				"year": 1951,
+				"driver": "Juan Manuel Fangio",
+				"_id": "642abc15f32a874eb1cf9473"
+			}
+		],
+		"homebase": "Hinwil, Switzerland",
+		"logo": "https://www.formula1.com/content/fom-website/en/championship/teams/Alfa-Romeo-Racing/_jcr_content/logo.img.png",
+		"createdAt": "2023-04-03T11:44:21.275Z",
+		"updatedAt": "2023-04-03T11:44:21.275Z",
+		"__v": 0
+	}
+]
