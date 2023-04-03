@@ -1,0 +1,1659 @@
+[
+	{
+		"_id": "6429cf84c131812c94cc6458",
+		"name": "Max Verstappen",
+		"number": 33,
+		"nationality": "Dutch",
+		"team": "Red Bull Racing",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 249,
+				"_id": "6429cf84c131812c94cc6459"
+			},
+			{
+				"year": 2019,
+				"points": 278,
+				"_id": "6429cf84c131812c94cc645a"
+			},
+			{
+				"year": 2020,
+				"points": 214,
+				"_id": "6429cf84c131812c94cc645b"
+			},
+			{
+				"year": 2021,
+				"points": 369,
+				"_id": "6429cf84c131812c94cc645c"
+			},
+			{
+				"year": 2022,
+				"points": 321,
+				"_id": "6429cf84c131812c94cc645d"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429cf84c131812c94cc645e"
+			}
+		],
+		"engine": "Honda",
+		"team_principal": "Christian Horner",
+		"history": [
+			{
+				"year": 2015,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429cf84c131812c94cc645f"
+			},
+			{
+				"year": 2016,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429cf84c131812c94cc6460"
+			},
+			{
+				"year": 2017,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6461"
+			},
+			{
+				"year": 2018,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6462"
+			},
+			{
+				"year": 2019,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6463"
+			},
+			{
+				"year": 2020,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6464"
+			},
+			{
+				"year": 2021,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6465"
+			},
+			{
+				"year": 2022,
+				"team": "Red Bull Racing",
+				"_id": "6429cf84c131812c94cc6466"
+			}
+		],
+		"image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/verstappen.jpg.img.1536.medium.jpg/1677069646195.jpg",
+		"createdAt": "2023-04-02T18:55:00.581Z",
+		"updatedAt": "2023-04-02T18:55:00.581Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d026eb049f79d5ee885f",
+		"name": "Lewis Hamilton",
+		"number": 44,
+		"nationality": "British",
+		"team": "Mercedes-AMG Petronas F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 408,
+				"_id": "6429d026eb049f79d5ee8860"
+			},
+			{
+				"year": 2019,
+				"points": 413,
+				"_id": "6429d026eb049f79d5ee8861"
+			},
+			{
+				"year": 2020,
+				"points": 347,
+				"_id": "6429d026eb049f79d5ee8862"
+			},
+			{
+				"year": 2021,
+				"points": 387,
+				"_id": "6429d026eb049f79d5ee8863"
+			},
+			{
+				"year": 2022,
+				"points": 414,
+				"_id": "6429d026eb049f79d5ee8864"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d026eb049f79d5ee8865"
+			}
+		],
+		"engine": "Mercedes",
+		"team_principal": "Toto Wolff",
+		"history": [
+			{
+				"year": 2007,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee8866"
+			},
+			{
+				"year": 2008,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee8867"
+			},
+			{
+				"year": 2009,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee8868"
+			},
+			{
+				"year": 2010,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee8869"
+			},
+			{
+				"year": 2011,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee886a"
+			},
+			{
+				"year": 2012,
+				"team": "McLaren",
+				"_id": "6429d026eb049f79d5ee886b"
+			},
+			{
+				"year": 2013,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee886c"
+			},
+			{
+				"year": 2014,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee886d"
+			},
+			{
+				"year": 2015,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee886e"
+			},
+			{
+				"year": 2016,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee886f"
+			},
+			{
+				"year": 2017,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8870"
+			},
+			{
+				"year": 2018,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8871"
+			},
+			{
+				"year": 2019,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8872"
+			},
+			{
+				"year": 2020,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8873"
+			},
+			{
+				"year": 2021,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8874"
+			},
+			{
+				"year": 2022,
+				"team": "Mercedes",
+				"_id": "6429d026eb049f79d5ee8875"
+			}
+		],
+		"image": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/hamilton.jpg.img.1536.medium.jpg/1677069594164.jpg",
+		"createdAt": "2023-04-02T18:57:42.148Z",
+		"updatedAt": "2023-04-02T18:57:42.148Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d08aeb049f79d5ee8877",
+		"name": "Sergio Perez",
+		"number": 11,
+		"nationality": "Mexican",
+		"team": "Red Bull Racing",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 62,
+				"_id": "6429d08aeb049f79d5ee8878"
+			},
+			{
+				"year": 2019,
+				"points": 52,
+				"_id": "6429d08aeb049f79d5ee8879"
+			},
+			{
+				"year": 2020,
+				"points": 125,
+				"_id": "6429d08aeb049f79d5ee887a"
+			},
+			{
+				"year": 2021,
+				"points": 190,
+				"_id": "6429d08aeb049f79d5ee887b"
+			},
+			{
+				"year": 2022,
+				"points": 215,
+				"_id": "6429d08aeb049f79d5ee887c"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d08aeb049f79d5ee887d"
+			}
+		],
+		"engine": "Honda",
+		"team_principal": "Christian Horner",
+		"history": [
+			{
+				"year": 2011,
+				"team": "Sauber",
+				"_id": "6429d08aeb049f79d5ee887e"
+			},
+			{
+				"year": 2012,
+				"team": "Sauber",
+				"_id": "6429d08aeb049f79d5ee887f"
+			},
+			{
+				"year": 2013,
+				"team": "McLaren",
+				"_id": "6429d08aeb049f79d5ee8880"
+			},
+			{
+				"year": 2014,
+				"team": "Force India",
+				"_id": "6429d08aeb049f79d5ee8881"
+			},
+			{
+				"year": 2015,
+				"team": "Force India",
+				"_id": "6429d08aeb049f79d5ee8882"
+			},
+			{
+				"year": 2016,
+				"team": "Force India",
+				"_id": "6429d08aeb049f79d5ee8883"
+			},
+			{
+				"year": 2017,
+				"team": "Force India",
+				"_id": "6429d08aeb049f79d5ee8884"
+			},
+			{
+				"year": 2018,
+				"team": "Force India",
+				"_id": "6429d08aeb049f79d5ee8885"
+			},
+			{
+				"year": 2019,
+				"team": "Racing Point",
+				"_id": "6429d08aeb049f79d5ee8886"
+			},
+			{
+				"year": 2020,
+				"team": "Racing Point",
+				"_id": "6429d08aeb049f79d5ee8887"
+			},
+			{
+				"year": 2021,
+				"team": "Red Bull Racing",
+				"_id": "6429d08aeb049f79d5ee8888"
+			},
+			{
+				"year": 2022,
+				"team": "Red Bull Racing",
+				"_id": "6429d08aeb049f79d5ee8889"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T18:59:22.143Z",
+		"updatedAt": "2023-04-02T18:59:22.143Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d111eb049f79d5ee888b",
+		"name": "Fernando Alonso",
+		"number": 14,
+		"nationality": "Spanish",
+		"team": "Alpine F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 50,
+				"_id": "6429d111eb049f79d5ee888c"
+			},
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d111eb049f79d5ee888d"
+			},
+			{
+				"year": 2020,
+				"points": 26,
+				"_id": "6429d111eb049f79d5ee888e"
+			},
+			{
+				"year": 2021,
+				"points": 77,
+				"_id": "6429d111eb049f79d5ee888f"
+			},
+			{
+				"year": 2022,
+				"points": 110,
+				"_id": "6429d111eb049f79d5ee8890"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d111eb049f79d5ee8891"
+			}
+		],
+		"engine": "Renault",
+		"team_principal": "Laurent Rossi",
+		"history": [
+			{
+				"year": 2001,
+				"team": "Minardi",
+				"_id": "6429d111eb049f79d5ee8892"
+			},
+			{
+				"year": 2002,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8893"
+			},
+			{
+				"year": 2003,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8894"
+			},
+			{
+				"year": 2004,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8895"
+			},
+			{
+				"year": 2005,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8896"
+			},
+			{
+				"year": 2006,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8897"
+			},
+			{
+				"year": 2007,
+				"team": "McLaren",
+				"_id": "6429d111eb049f79d5ee8898"
+			},
+			{
+				"year": 2008,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee8899"
+			},
+			{
+				"year": 2009,
+				"team": "Renault",
+				"_id": "6429d111eb049f79d5ee889a"
+			},
+			{
+				"year": 2010,
+				"team": "Ferrari",
+				"_id": "6429d111eb049f79d5ee889b"
+			},
+			{
+				"year": 2011,
+				"team": "Ferrari",
+				"_id": "6429d111eb049f79d5ee889c"
+			},
+			{
+				"year": 2012,
+				"team": "Ferrari",
+				"_id": "6429d111eb049f79d5ee889d"
+			},
+			{
+				"year": 2013,
+				"team": "Ferrari",
+				"_id": "6429d111eb049f79d5ee889e"
+			},
+			{
+				"year": 2014,
+				"team": "Ferrari",
+				"_id": "6429d111eb049f79d5ee889f"
+			},
+			{
+				"year": 2015,
+				"team": "McLaren",
+				"_id": "6429d111eb049f79d5ee88a0"
+			},
+			{
+				"year": 2016,
+				"team": "McLaren",
+				"_id": "6429d111eb049f79d5ee88a1"
+			},
+			{
+				"year": 2017,
+				"team": "McLaren",
+				"_id": "6429d111eb049f79d5ee88a2"
+			},
+			{
+				"year": 2018,
+				"team": "McLaren",
+				"_id": "6429d111eb049f79d5ee88a3"
+			},
+			{
+				"year": 2021,
+				"team": "Alpine F1 Team",
+				"_id": "6429d111eb049f79d5ee88a4"
+			},
+			{
+				"year": 2022,
+				"team": "Alpine F1 Team",
+				"_id": "6429d111eb049f79d5ee88a5"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:01:37.711Z",
+		"updatedAt": "2023-04-02T19:01:37.711Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d2d4eb049f79d5ee88a7",
+		"name": "Lance Stroll",
+		"number": 18,
+		"nationality": "Canadian",
+		"team": "Aston Martin Cognizant F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 6,
+				"_id": "6429d2d4eb049f79d5ee88a8"
+			},
+			{
+				"year": 2019,
+				"points": 21,
+				"_id": "6429d2d4eb049f79d5ee88a9"
+			},
+			{
+				"year": 2020,
+				"points": 75,
+				"_id": "6429d2d4eb049f79d5ee88aa"
+			},
+			{
+				"year": 2021,
+				"points": 69,
+				"_id": "6429d2d4eb049f79d5ee88ab"
+			},
+			{
+				"year": 2022,
+				"points": 37,
+				"_id": "6429d2d4eb049f79d5ee88ac"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d2d4eb049f79d5ee88ad"
+			}
+		],
+		"engine": "Mercedes",
+		"team_principal": "Otmar Szafnauer",
+		"history": [
+			{
+				"year": 2017,
+				"team": "Williams",
+				"_id": "6429d2d4eb049f79d5ee88ae"
+			},
+			{
+				"year": 2018,
+				"team": "Williams",
+				"_id": "6429d2d4eb049f79d5ee88af"
+			},
+			{
+				"year": 2019,
+				"team": "Racing Point",
+				"_id": "6429d2d4eb049f79d5ee88b0"
+			},
+			{
+				"year": 2020,
+				"team": "Racing Point",
+				"_id": "6429d2d4eb049f79d5ee88b1"
+			},
+			{
+				"year": 2021,
+				"team": "Aston Martin Cognizant F1 Team",
+				"_id": "6429d2d4eb049f79d5ee88b2"
+			},
+			{
+				"year": 2022,
+				"team": "Aston Martin Cognizant F1 Team",
+				"_id": "6429d2d4eb049f79d5ee88b3"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:09:08.336Z",
+		"updatedAt": "2023-04-02T19:09:08.336Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d2f1eb049f79d5ee88b5",
+		"name": "Carlos Sainz",
+		"number": 55,
+		"nationality": "Spanish",
+		"team": "Ferrari",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 53,
+				"_id": "6429d2f1eb049f79d5ee88b6"
+			},
+			{
+				"year": 2019,
+				"points": 96,
+				"_id": "6429d2f1eb049f79d5ee88b7"
+			},
+			{
+				"year": 2020,
+				"points": 105,
+				"_id": "6429d2f1eb049f79d5ee88b8"
+			},
+			{
+				"year": 2021,
+				"points": 164,
+				"_id": "6429d2f1eb049f79d5ee88b9"
+			},
+			{
+				"year": 2022,
+				"points": 78,
+				"_id": "6429d2f1eb049f79d5ee88ba"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d2f1eb049f79d5ee88bb"
+			}
+		],
+		"engine": "Ferrari",
+		"team_principal": "Mattia Binotto",
+		"history": [
+			{
+				"year": 2015,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d2f1eb049f79d5ee88bc"
+			},
+			{
+				"year": 2016,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d2f1eb049f79d5ee88bd"
+			},
+			{
+				"year": 2017,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d2f1eb049f79d5ee88be"
+			},
+			{
+				"year": 2018,
+				"team": "Renault",
+				"_id": "6429d2f1eb049f79d5ee88bf"
+			},
+			{
+				"year": 2019,
+				"team": "McLaren",
+				"_id": "6429d2f1eb049f79d5ee88c0"
+			},
+			{
+				"year": 2020,
+				"team": "McLaren",
+				"_id": "6429d2f1eb049f79d5ee88c1"
+			},
+			{
+				"year": 2021,
+				"team": "Ferrari",
+				"_id": "6429d2f1eb049f79d5ee88c2"
+			},
+			{
+				"year": 2022,
+				"team": "Ferrari",
+				"_id": "6429d2f1eb049f79d5ee88c3"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:09:37.305Z",
+		"updatedAt": "2023-04-02T19:09:37.305Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d30beb049f79d5ee88c5",
+		"name": "George Russell",
+		"number": 63,
+		"nationality": "British",
+		"team": "Mercedes-AMG Petronas Formula One Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 0,
+				"_id": "6429d30beb049f79d5ee88c6"
+			},
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d30beb049f79d5ee88c7"
+			},
+			{
+				"year": 2020,
+				"points": 3,
+				"_id": "6429d30beb049f79d5ee88c8"
+			},
+			{
+				"year": 2021,
+				"points": 16,
+				"_id": "6429d30beb049f79d5ee88c9"
+			},
+			{
+				"year": 2022,
+				"points": 2,
+				"_id": "6429d30beb049f79d5ee88ca"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d30beb049f79d5ee88cb"
+			}
+		],
+		"engine": "Mercedes",
+		"team_principal": "Toto Wolff",
+		"history": [
+			{
+				"year": 2019,
+				"team": "Williams",
+				"_id": "6429d30beb049f79d5ee88cc"
+			},
+			{
+				"year": 2020,
+				"team": "Williams",
+				"_id": "6429d30beb049f79d5ee88cd"
+			},
+			{
+				"year": 2021,
+				"team": "Williams",
+				"_id": "6429d30beb049f79d5ee88ce"
+			},
+			{
+				"year": 2022,
+				"team": "Mercedes-AMG Petronas Formula One Team",
+				"_id": "6429d30beb049f79d5ee88cf"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:10:03.242Z",
+		"updatedAt": "2023-04-02T19:10:03.242Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d326eb049f79d5ee88d1",
+		"name": "Lando Norris",
+		"number": 4,
+		"nationality": "British",
+		"team": "McLaren",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 0,
+				"_id": "6429d326eb049f79d5ee88d2"
+			},
+			{
+				"year": 2019,
+				"points": 49,
+				"_id": "6429d326eb049f79d5ee88d3"
+			},
+			{
+				"year": 2020,
+				"points": 97,
+				"_id": "6429d326eb049f79d5ee88d4"
+			},
+			{
+				"year": 2021,
+				"points": 132,
+				"_id": "6429d326eb049f79d5ee88d5"
+			},
+			{
+				"year": 2022,
+				"points": 66,
+				"_id": "6429d326eb049f79d5ee88d6"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d326eb049f79d5ee88d7"
+			}
+		],
+		"engine": "Mercedes",
+		"team_principal": "Zak Brown",
+		"history": [
+			{
+				"year": 2017,
+				"team": "Formula Renault 2.0 Eurocup",
+				"_id": "6429d326eb049f79d5ee88d8"
+			},
+			{
+				"year": 2018,
+				"team": "FIA Formula 2 Championship",
+				"_id": "6429d326eb049f79d5ee88d9"
+			},
+			{
+				"year": 2019,
+				"team": "McLaren",
+				"_id": "6429d326eb049f79d5ee88da"
+			},
+			{
+				"year": 2020,
+				"team": "McLaren",
+				"_id": "6429d326eb049f79d5ee88db"
+			},
+			{
+				"year": 2021,
+				"team": "McLaren",
+				"_id": "6429d326eb049f79d5ee88dc"
+			},
+			{
+				"year": 2022,
+				"team": "McLaren",
+				"_id": "6429d326eb049f79d5ee88dd"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:10:30.759Z",
+		"updatedAt": "2023-04-02T19:10:30.759Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d339eb049f79d5ee88df",
+		"name": "Nico Hülkenberg",
+		"number": 69,
+		"nationality": "German",
+		"team": "Alfa Romeo Racing",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 69,
+				"_id": "6429d339eb049f79d5ee88e0"
+			},
+			{
+				"year": 2019,
+				"points": 37,
+				"_id": "6429d339eb049f79d5ee88e1"
+			},
+			{
+				"year": 2020,
+				"points": 10,
+				"_id": "6429d339eb049f79d5ee88e2"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d339eb049f79d5ee88e3"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d339eb049f79d5ee88e4"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d339eb049f79d5ee88e5"
+			}
+		],
+		"engine": "Ferrari",
+		"team_principal": "Frédéric Vasseur",
+		"history": [
+			{
+				"year": 2010,
+				"team": "Williams",
+				"_id": "6429d339eb049f79d5ee88e6"
+			},
+			{
+				"year": 2012,
+				"team": "Force India",
+				"_id": "6429d339eb049f79d5ee88e7"
+			},
+			{
+				"year": 2013,
+				"team": "Sauber",
+				"_id": "6429d339eb049f79d5ee88e8"
+			},
+			{
+				"year": 2014,
+				"team": "Force India",
+				"_id": "6429d339eb049f79d5ee88e9"
+			},
+			{
+				"year": 2015,
+				"team": "Force India",
+				"_id": "6429d339eb049f79d5ee88ea"
+			},
+			{
+				"year": 2016,
+				"team": "Force India",
+				"_id": "6429d339eb049f79d5ee88eb"
+			},
+			{
+				"year": 2017,
+				"team": "Renault",
+				"_id": "6429d339eb049f79d5ee88ec"
+			},
+			{
+				"year": 2018,
+				"team": "Renault",
+				"_id": "6429d339eb049f79d5ee88ed"
+			},
+			{
+				"year": 2019,
+				"team": "Renault",
+				"_id": "6429d339eb049f79d5ee88ee"
+			},
+			{
+				"year": 2020,
+				"team": "Racing Point",
+				"_id": "6429d339eb049f79d5ee88ef"
+			},
+			{
+				"year": 2021,
+				"team": "Aston Martin",
+				"_id": "6429d339eb049f79d5ee88f0"
+			},
+			{
+				"year": 2022,
+				"team": "Alfa Romeo Racing",
+				"_id": "6429d339eb049f79d5ee88f1"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:10:49.525Z",
+		"updatedAt": "2023-04-02T19:10:49.525Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d35beb049f79d5ee88f3",
+		"name": "Charles Leclerc",
+		"number": 16,
+		"nationality": "Monégasque",
+		"team": "Ferrari",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 39,
+				"_id": "6429d35beb049f79d5ee88f4"
+			},
+			{
+				"year": 2019,
+				"points": 264,
+				"_id": "6429d35beb049f79d5ee88f5"
+			},
+			{
+				"year": 2020,
+				"points": 98,
+				"_id": "6429d35beb049f79d5ee88f6"
+			},
+			{
+				"year": 2021,
+				"points": 117,
+				"_id": "6429d35beb049f79d5ee88f7"
+			},
+			{
+				"year": 2022,
+				"points": 174,
+				"_id": "6429d35beb049f79d5ee88f8"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d35beb049f79d5ee88f9"
+			}
+		],
+		"engine": "Ferrari",
+		"team_principal": "Mattia Binotto",
+		"history": [
+			{
+				"year": 2015,
+				"team": "ART Grand Prix",
+				"_id": "6429d35beb049f79d5ee88fa"
+			},
+			{
+				"year": 2016,
+				"team": "ART Grand Prix",
+				"_id": "6429d35beb049f79d5ee88fb"
+			},
+			{
+				"year": 2017,
+				"team": "Prema Racing",
+				"_id": "6429d35beb049f79d5ee88fc"
+			},
+			{
+				"year": 2018,
+				"team": "Alfa Romeo Sauber",
+				"_id": "6429d35beb049f79d5ee88fd"
+			},
+			{
+				"year": 2019,
+				"team": "Ferrari",
+				"_id": "6429d35beb049f79d5ee88fe"
+			},
+			{
+				"year": 2020,
+				"team": "Ferrari",
+				"_id": "6429d35beb049f79d5ee88ff"
+			},
+			{
+				"year": 2021,
+				"team": "Ferrari",
+				"_id": "6429d35beb049f79d5ee8900"
+			},
+			{
+				"year": 2022,
+				"team": "Ferrari",
+				"_id": "6429d35beb049f79d5ee8901"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:11:23.230Z",
+		"updatedAt": "2023-04-02T19:11:23.230Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d38deb049f79d5ee8903",
+		"name": "Esteban Ocon",
+		"number": 31,
+		"nationality": "French",
+		"team": "Alpine F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 49,
+				"_id": "6429d38deb049f79d5ee8904"
+			},
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d38deb049f79d5ee8905"
+			},
+			{
+				"year": 2020,
+				"points": 62,
+				"_id": "6429d38deb049f79d5ee8906"
+			},
+			{
+				"year": 2021,
+				"points": 118,
+				"_id": "6429d38deb049f79d5ee8907"
+			},
+			{
+				"year": 2022,
+				"points": 70,
+				"_id": "6429d38deb049f79d5ee8908"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d38deb049f79d5ee8909"
+			}
+		],
+		"engine": "Renault",
+		"team_principal": "Laurent Rossi",
+		"history": [
+			{
+				"year": 2016,
+				"team": "Manor Racing",
+				"_id": "6429d38deb049f79d5ee890a"
+			},
+			{
+				"year": 2017,
+				"team": "Force India",
+				"_id": "6429d38deb049f79d5ee890b"
+			},
+			{
+				"year": 2018,
+				"team": "Force India",
+				"_id": "6429d38deb049f79d5ee890c"
+			},
+			{
+				"year": 2019,
+				"team": "Mercedes",
+				"_id": "6429d38deb049f79d5ee890d"
+			},
+			{
+				"year": 2020,
+				"team": "Renault",
+				"_id": "6429d38deb049f79d5ee890e"
+			},
+			{
+				"year": 2021,
+				"team": "Alpine F1 Team",
+				"_id": "6429d38deb049f79d5ee890f"
+			},
+			{
+				"year": 2022,
+				"team": "Alpine F1 Team",
+				"_id": "6429d38deb049f79d5ee8910"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:12:13.027Z",
+		"updatedAt": "2023-04-02T19:12:13.027Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d3bdeb049f79d5ee8912",
+		"name": "Valtteri Bottas",
+		"number": 77,
+		"nationality": "Finnish",
+		"team": "Mercedes",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 247,
+				"_id": "6429d3bdeb049f79d5ee8913"
+			},
+			{
+				"year": 2019,
+				"points": 326,
+				"_id": "6429d3bdeb049f79d5ee8914"
+			},
+			{
+				"year": 2020,
+				"points": 223,
+				"_id": "6429d3bdeb049f79d5ee8915"
+			},
+			{
+				"year": 2021,
+				"points": 137,
+				"_id": "6429d3bdeb049f79d5ee8916"
+			},
+			{
+				"year": 2022,
+				"points": 206,
+				"_id": "6429d3bdeb049f79d5ee8917"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d3bdeb049f79d5ee8918"
+			}
+		],
+		"engine": "Mercedes",
+		"team_principal": "Toto Wolff",
+		"history": [
+			{
+				"year": 2013,
+				"team": "Williams",
+				"_id": "6429d3bdeb049f79d5ee8919"
+			},
+			{
+				"year": 2014,
+				"team": "Williams",
+				"_id": "6429d3bdeb049f79d5ee891a"
+			},
+			{
+				"year": 2015,
+				"team": "Williams",
+				"_id": "6429d3bdeb049f79d5ee891b"
+			},
+			{
+				"year": 2016,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee891c"
+			},
+			{
+				"year": 2017,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee891d"
+			},
+			{
+				"year": 2018,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee891e"
+			},
+			{
+				"year": 2019,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee891f"
+			},
+			{
+				"year": 2020,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee8920"
+			},
+			{
+				"year": 2021,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee8921"
+			},
+			{
+				"year": 2022,
+				"team": "Mercedes",
+				"_id": "6429d3bdeb049f79d5ee8922"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:13:01.415Z",
+		"updatedAt": "2023-04-02T19:13:01.415Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d3f5eb049f79d5ee8924",
+		"name": "Oscar Piastri",
+		"number": 31,
+		"nationality": "Australian",
+		"team": "Alpine F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d3f5eb049f79d5ee8925"
+			},
+			{
+				"year": 2020,
+				"points": 0,
+				"_id": "6429d3f5eb049f79d5ee8926"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d3f5eb049f79d5ee8927"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d3f5eb049f79d5ee8928"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d3f5eb049f79d5ee8929"
+			}
+		],
+		"engine": "Renault",
+		"team_principal": "Laurent Rossi",
+		"history": [],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:13:57.641Z",
+		"updatedAt": "2023-04-02T19:13:57.641Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d405eb049f79d5ee892b",
+		"name": "Pierre Gasly",
+		"number": 10,
+		"nationality": "French",
+		"team": "Scuderia AlphaTauri",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2017,
+				"points": 0,
+				"_id": "6429d405eb049f79d5ee892c"
+			},
+			{
+				"year": 2018,
+				"points": 29,
+				"_id": "6429d405eb049f79d5ee892d"
+			},
+			{
+				"year": 2019,
+				"points": 95,
+				"_id": "6429d405eb049f79d5ee892e"
+			},
+			{
+				"year": 2020,
+				"points": 75,
+				"_id": "6429d405eb049f79d5ee892f"
+			},
+			{
+				"year": 2021,
+				"points": 110,
+				"_id": "6429d405eb049f79d5ee8930"
+			},
+			{
+				"year": 2022,
+				"points": 53,
+				"_id": "6429d405eb049f79d5ee8931"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d405eb049f79d5ee8932"
+			}
+		],
+		"engine": "Honda",
+		"team_principal": "Franz Tost",
+		"history": [
+			{
+				"year": 2017,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d405eb049f79d5ee8933"
+			},
+			{
+				"year": 2018,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d405eb049f79d5ee8934"
+			},
+			{
+				"year": 2019,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d405eb049f79d5ee8935"
+			},
+			{
+				"year": 2019,
+				"team": "Red Bull Racing",
+				"_id": "6429d405eb049f79d5ee8936"
+			},
+			{
+				"year": 2020,
+				"team": "Scuderia AlphaTauri",
+				"_id": "6429d405eb049f79d5ee8937"
+			},
+			{
+				"year": 2021,
+				"team": "Scuderia AlphaTauri",
+				"_id": "6429d405eb049f79d5ee8938"
+			},
+			{
+				"year": 2022,
+				"team": "Scuderia AlphaTauri",
+				"_id": "6429d405eb049f79d5ee8939"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:14:13.159Z",
+		"updatedAt": "2023-04-02T19:14:13.159Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d423eb049f79d5ee893b",
+		"name": "Zhou Guanyu",
+		"number": 38,
+		"nationality": "Chinese",
+		"team": "Alpine F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d423eb049f79d5ee893c"
+			},
+			{
+				"year": 2020,
+				"points": 0,
+				"_id": "6429d423eb049f79d5ee893d"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d423eb049f79d5ee893e"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d423eb049f79d5ee893f"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d423eb049f79d5ee8940"
+			}
+		],
+		"engine": "Renault",
+		"team_principal": "Laurent Rossi",
+		"history": [],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:14:43.873Z",
+		"updatedAt": "2023-04-02T19:14:43.873Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d434eb049f79d5ee8942",
+		"name": "Yuki Tsunoda",
+		"number": 22,
+		"nationality": "Japanese",
+		"team": "Scuderia AlphaTauri",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2021,
+				"points": 32,
+				"_id": "6429d434eb049f79d5ee8943"
+			},
+			{
+				"year": 2022,
+				"points": 29,
+				"_id": "6429d434eb049f79d5ee8944"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d434eb049f79d5ee8945"
+			}
+		],
+		"engine": "Honda",
+		"team_principal": "Franz Tost",
+		"history": [],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:15:00.577Z",
+		"updatedAt": "2023-04-02T19:15:00.577Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d492eb049f79d5ee8959",
+		"name": "Kevin Magnussen",
+		"number": 20,
+		"nationality": "Danish",
+		"team": "Haas F1 Team",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2014,
+				"points": 55,
+				"_id": "6429d492eb049f79d5ee895a"
+			},
+			{
+				"year": 2015,
+				"points": 55,
+				"_id": "6429d492eb049f79d5ee895b"
+			},
+			{
+				"year": 2016,
+				"points": 7,
+				"_id": "6429d492eb049f79d5ee895c"
+			},
+			{
+				"year": 2017,
+				"points": 19,
+				"_id": "6429d492eb049f79d5ee895d"
+			},
+			{
+				"year": 2018,
+				"points": 56,
+				"_id": "6429d492eb049f79d5ee895e"
+			},
+			{
+				"year": 2019,
+				"points": 20,
+				"_id": "6429d492eb049f79d5ee895f"
+			},
+			{
+				"year": 2020,
+				"points": 1,
+				"_id": "6429d492eb049f79d5ee8960"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d492eb049f79d5ee8961"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d492eb049f79d5ee8962"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d492eb049f79d5ee8963"
+			}
+		],
+		"engine": "",
+		"team_principal": "",
+		"history": [
+			{
+				"year": 2014,
+				"team": "McLaren",
+				"_id": "6429d492eb049f79d5ee8964"
+			},
+			{
+				"year": 2015,
+				"team": "McLaren",
+				"_id": "6429d492eb049f79d5ee8965"
+			},
+			{
+				"year": 2016,
+				"team": "Renault",
+				"_id": "6429d492eb049f79d5ee8966"
+			},
+			{
+				"year": 2017,
+				"team": "Haas F1 Team",
+				"_id": "6429d492eb049f79d5ee8967"
+			},
+			{
+				"year": 2018,
+				"team": "Haas F1 Team",
+				"_id": "6429d492eb049f79d5ee8968"
+			},
+			{
+				"year": 2019,
+				"team": "Haas F1 Team",
+				"_id": "6429d492eb049f79d5ee8969"
+			},
+			{
+				"year": 2020,
+				"team": "Haas F1 Team",
+				"_id": "6429d492eb049f79d5ee896a"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:16:34.501Z",
+		"updatedAt": "2023-04-02T19:16:34.501Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d4e4eb049f79d5ee896c",
+		"name": "Alexander Albon",
+		"number": 23,
+		"nationality": "Thai",
+		"team": "Williams",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2019,
+				"points": 92,
+				"_id": "6429d4e4eb049f79d5ee896d"
+			},
+			{
+				"year": 2020,
+				"points": 105,
+				"_id": "6429d4e4eb049f79d5ee896e"
+			},
+			{
+				"year": 2021,
+				"points": 2,
+				"_id": "6429d4e4eb049f79d5ee896f"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d4e4eb049f79d5ee8970"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d4e4eb049f79d5ee8971"
+			}
+		],
+		"engine": "",
+		"team_principal": "Jost Capito",
+		"history": [
+			{
+				"year": 2019,
+				"team": "Scuderia Toro Rosso",
+				"_id": "6429d4e4eb049f79d5ee8972"
+			},
+			{
+				"year": 2019,
+				"team": "Red Bull Racing",
+				"_id": "6429d4e4eb049f79d5ee8973"
+			},
+			{
+				"year": 2020,
+				"team": "Red Bull Racing",
+				"_id": "6429d4e4eb049f79d5ee8974"
+			},
+			{
+				"year": 2021,
+				"team": "Williams Racing",
+				"_id": "6429d4e4eb049f79d5ee8975"
+			},
+			{
+				"year": 2022,
+				"team": "Williams Racing",
+				"_id": "6429d4e4eb049f79d5ee8976"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:17:56.170Z",
+		"updatedAt": "2023-04-02T19:17:56.170Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d50ceb049f79d5ee8978",
+		"name": "Logan Sargeant",
+		"number": 77,
+		"nationality": "American",
+		"team": "Williams Racing",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2018,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee8979"
+			},
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee897a"
+			},
+			{
+				"year": 2020,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee897b"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee897c"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee897d"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d50ceb049f79d5ee897e"
+			}
+		],
+		"engine": "Alfa Romeo",
+		"team_principal": "Jost Capito",
+		"history": [
+			{
+				"year": 2020,
+				"team": "Prema Racing",
+				"_id": "6429d50ceb049f79d5ee897f"
+			},
+			{
+				"year": 2021,
+				"team": "Prema Racing",
+				"_id": "6429d50ceb049f79d5ee8980"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:18:36.048Z",
+		"updatedAt": "2023-04-02T19:18:36.048Z",
+		"__v": 0
+	},
+	{
+		"_id": "6429d58aeb049f79d5ee8982",
+		"name": "Nyck De Vries",
+		"number": 4,
+		"nationality": "Dutch",
+		"team": "AlphaTauri",
+		"year": 2023,
+		"points": [
+			{
+				"year": 2019,
+				"points": 0,
+				"_id": "6429d58aeb049f79d5ee8983"
+			},
+			{
+				"year": 2020,
+				"points": 0,
+				"_id": "6429d58aeb049f79d5ee8984"
+			},
+			{
+				"year": 2021,
+				"points": 0,
+				"_id": "6429d58aeb049f79d5ee8985"
+			},
+			{
+				"year": 2022,
+				"points": 0,
+				"_id": "6429d58aeb049f79d5ee8986"
+			},
+			{
+				"year": 2023,
+				"points": 0,
+				"_id": "6429d58aeb049f79d5ee8987"
+			}
+		],
+		"engine": "Honda",
+		"team_principal": "Franz Tost",
+		"history": [
+			{
+				"year": 2019,
+				"team": "ART Grand Prix",
+				"_id": "6429d58aeb049f79d5ee8988"
+			},
+			{
+				"year": 2020,
+				"team": "ART Grand Prix",
+				"_id": "6429d58aeb049f79d5ee8989"
+			},
+			{
+				"year": 2021,
+				"team": "Mercedes-EQ Formula E Team",
+				"_id": "6429d58aeb049f79d5ee898a"
+			},
+			{
+				"year": 2022,
+				"team": "Mercedes-AMG Petronas Formula One Team",
+				"_id": "6429d58aeb049f79d5ee898b"
+			}
+		],
+		"image": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NYCDEV01_Nyck_De%20Vries/nycdev01.png.transform/2col-retina/image.png",
+		"createdAt": "2023-04-02T19:20:42.823Z",
+		"updatedAt": "2023-04-02T19:20:42.823Z",
+		"__v": 0
+	}
+]
